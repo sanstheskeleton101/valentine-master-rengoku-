@@ -16,8 +16,8 @@
 }
 
 #logo{
-    height: 50%;
-    width: 50%;
+    height:50%;
+    width:50%;
 }
 
 #div1 {
@@ -60,7 +60,7 @@
 }
 
 #div7 {
-    background-color: darkpink;
+    background-color: pink;
     grid-column: 1/4;
     grid-row: 7/8;
 }
